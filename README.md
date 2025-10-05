@@ -21,6 +21,8 @@ We utilized Google and the Nasa Resources pages provided to determine sensor typ
 
 While the first one worked well, we could not get the server mode one to successfully pull data from the FIRMS and then display a time lapse update of the fire and subsequent vegetation changes over the years. While this remains our goal, we abandoned this due to the time constraints of the weekend.
 
+Most of the factors that we considered were: (a) what data could we use; (b) could we actually write the code to get this data; (c) could we display it in a useful way; (d) what NASA apps exist that we could link to save time; (e) what we could realistically produce in the short weekend time.
+
 # Use of Artificial Intelligence (AI)
 
 We used (AI) tools, namely Google Gemini to create a lot of the Python programs initially and then went in and modified them as we got access tokens, adding addition buttons and links. We did not use any (AI) to generate content as all of our content is from NASA sources and applications. We did not provide (AI) with any of the access information or our final programs.
