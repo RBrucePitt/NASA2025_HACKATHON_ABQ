@@ -106,7 +106,7 @@ def create_geojson_feature(df):
     for _, row in df.iterrows():
         # Generate Detail URL 
         DETAIL_BURN_URL = "https://worldview.earthdata.nasa.gov/?v=-110.466006321163,32.312894812006256,-106.55172797386264,34.17319637029353&as=2012-05-09-T00%3A00%3A00Z&ae=2012-06-25-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m,MODIS_Terra_L3_Land_Water_Mask(disabled=1),MODIS_Terra_NDVI_8Day(hidden,max=0.6201),MODIS_Combined_Thermal_Anomalies_All(palette=red),MODIS_Combined_L3_IGBP_Land_Cover_Type_Annual(opacity=0.5,disabled=16-17-12),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&av=1.5&ab=on&t=2012-05-09-T16%3A00%3A00Z"
-        DETAIL_VEG_URL = "https://worldview.earthdata.nasa.gov/?v=-110.43888934801736,31.758194077444163,-107.07533711225106,34.19409996247332&ics=true&ici=3&icd=2&as=2012-05-09-T00%3A00%3A00Z&ae=2012-12-09-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m,MODIS_Combined_Thermal_Anomalies_All(palette=red),MODIS_Combined_L3_IGBP_Land_Cover_Type_Annual(opacity=0.5,disabled=16-17-12),MODIS_Terra_CorrectedReflectance_TrueColor(opacity=0.9)&lg=true&av=1.5&ab=on"
+        DETAIL_VEG_URL = "https://worldview.earthdata.nasa.gov/?v=-109.5239221333008,32.72678108361404,-107.42143754665997,33.7260087842962&l=Reference_Labels_15m,Reference_Features_15m(hidden),MODIS_Terra_L3_Land_Water_Mask(hidden,disabled=1),MODIS_Terra_NDVI_8Day(hidden,max=0.6201),MODIS_Combined_Thermal_Anomalies_All(hidden,palette=red),MODIS_Combined_L3_IGBP_Land_Cover_Type_Annual(hidden,opacity=0.5,disabled=16-17-12),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2022-05-16-T00%3A00%3A00Z"
         # Each feature represents a single fire detection event
         feature = {
             'type': 'Feature',
