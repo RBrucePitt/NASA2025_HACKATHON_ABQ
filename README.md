@@ -29,5 +29,11 @@ We used (AI) tools, namely Google Gemini to create a lot of the Python programs 
 
 # Links/Tools
 
-https://firms.modaps.eosdis.nasa.gov/api/area/cs
+FIRMS: https://firms.modaps.eosdis.nasa.gov/api/area/cs
+World View: https://www.earthdata.nasa.gov/data/tools/worldview
+Data Tools: https://www.earthdata.nasa.gov/data/tools
+FIRMs: https://www.earthdata.nasa.gov/data/tools/firms
+TERRA Instruments: https://terra.nasa.gov/about/terra-instruments
+NASA APIs: https://api.nasa.gov/
+
 
