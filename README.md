@@ -12,3 +12,11 @@ We are using the Terra Satellite sensors to show an interactive website that sho
 # To Test
 
 Copy the html file to your local machine and then run in your FireFox or other browser.
+
+# Project Details
+
+Provide details about your project. Consider the following questions: What does it do or how does it work? What benefits does it have? What is the intended impact of the project? What tools, coding languages, hardware, or software did you use to develop your project? How is your project creative? What factors did your team consider?
+
+We developed Python programs that implemented two type of access to the FIRMS data: (1) Pulls FIRMS fire location data and then generates this informaiton as a Blue/White dot with the location of the fire detection on a zoomable map of the world with links to the NASA World View application; The second was a canvas/flask based python server (local 127.0.0.1:5000) that would pull this information dynamically based on start times and date ranges. 
+
+While the first one worked well, we could not get the server mode one to successfully pull data from the FIRMS and then display a time lapse update of the fire and subsequent vegetation changes over the years. While this remains our goal, we abandoned this due to the time constraints of the weekend.
