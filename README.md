@@ -15,8 +15,12 @@ Copy the html file to your local machine and then run in your FireFox or other b
 
 # Project Details
 
-Provide details about your project. Consider the following questions: What does it do or how does it work? What benefits does it have? What is the intended impact of the project? What tools, coding languages, hardware, or software did you use to develop your project? How is your project creative? What factors did your team consider?
-
 We developed Python programs that implemented two type of access to the FIRMS data: (1) Pulls FIRMS fire location data and then generates this information as a Blue/White dot with the location of the fire detection on a zoomable map of the world with links to the NASA World View application; The second was a canvas/flask based python server (local 127.0.0.1:5000) that would pull this information dynamically based on start times and date ranges. 
 
+We utilized Google and the Nasa Resources pages provided to determine sensor types that we needed, how to access them, and what types of earth-science information we could gather.
+
 While the first one worked well, we could not get the server mode one to successfully pull data from the FIRMS and then display a time lapse update of the fire and subsequent vegetation changes over the years. While this remains our goal, we abandoned this due to the time constraints of the weekend.
+
+# Use of Artificial Intelligence (AI)
+
+We used (AI) tools, namely Google Gemini to create a lot of the Python programs initially and then went in and modified them as we got access tokens, adding addition buttons and links. We did not use any (AI) to generate content as all of our content is from Nasa sources and applications. We did not provide (AI) with any of the access information or our final programs.
