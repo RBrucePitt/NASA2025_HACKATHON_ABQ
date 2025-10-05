@@ -23,4 +23,4 @@ While the first one worked well, we could not get the server mode one to success
 
 # Use of Artificial Intelligence (AI)
 
-We used (AI) tools, namely Google Gemini to create a lot of the Python programs initially and then went in and modified them as we got access tokens, adding addition buttons and links. We did not use any (AI) to generate content as all of our content is from Nasa sources and applications. We did not provide (AI) with any of the access information or our final programs.
+We used (AI) tools, namely Google Gemini to create a lot of the Python programs initially and then went in and modified them as we got access tokens, adding addition buttons and links. We did not use any (AI) to generate content as all of our content is from NASA sources and applications. We did not provide (AI) with any of the access information or our final programs.
