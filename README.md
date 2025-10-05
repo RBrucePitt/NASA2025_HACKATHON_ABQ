@@ -8,3 +8,7 @@ NASA’s oldest daily Earth-viewing satellite – Terra – just turned 25 years
 # Project Summary
 
 We are using the Terra Satellite sensors to show an interactive website that shows fires and their smoke plumes and then the vegetation regrowth rate with the ability to enter a start date and zoom in/out to anywhere in the world. This is intended as education showing that the environment and the earth can recover from fire, but that it takes months and years.
+
+# To Test
+
+Copy the html file to your local machine and then run in your FireFox or other browser.
